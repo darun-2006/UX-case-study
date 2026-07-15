@@ -29,18 +29,13 @@ research.
 ## Files
 
 ```
-UX_Case_Study_Flipkart.docx   — editable Word version
 UX_Case_Study_Flipkart.pdf    — fixed-layout PDF version
 README.md                     — this file
 ```
 
-Both versions have identical content and layout — use the `.docx` if you need to edit
-wording or formatting before submitting, or the `.pdf` if you need a final, non-editable
-copy.
-
 ## Length
 
-6 pages, including the cover page: roughly 5 pages of written analysis and figures.
+5 pages, including the cover page: roughly 4 pages of written analysis and figures.
 
 ## Sketches
 
